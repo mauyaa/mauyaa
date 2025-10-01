@@ -12,32 +12,70 @@
 
 ---
 
-## 🧩 What I Do
+## ❇️ What I Do
 
-```text
-I build scalable backend systems. I design sleek front-end interfaces.
-I containerize with Docker. I deploy with care & precision.
+I build scalable backend systems. I design sleek front-end interfaces.  
+I containerize with Docker. I deploy with care & precision.  
 I’m always learning, always pushing boundaries.
-⚡ My Tools & Tech
-<p align="center"> <!-- Example of semi‑animated badge / hover effect via SVG trick (this is illustrative) --> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,html,css,django,flask,mongodb,postgres,docker" alt="skills icons" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mauyaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauyaa&theme=radical&hide_border=true" alt="Streak" width="47%" /> </p>
-⏱️ WakaTime Coding Insights
-<p align="center"> <a href="https://wakatime.com/@mauyaa"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mauyaa&layout=compact&theme=tokyonight" alt="WakaTime Stats"/> </a> </p>
-📆 My Calendar
-<p align="center"> <img src="https://github-readme-calendar.vercel.app/api?username=mauyaa&theme=onedark&hide_year=true" alt="Contribution Calendar" /> </p>
-🔍 Cool Effects You Can Add
-Typing animation (via readme-typing-svg) for dynamic greetings
 
-3D contribution graphs / animated contribution visualizations
+---
 
-Hover effects / tooltip badges via custom SVGs
+## 🛠️ My Tools & Tech
 
-GIF headers / background animations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,html,css,django,flask,mongodb,postgres,docker" alt="skills icons" />
+</p>
 
-Music players / Spotify embeds (via external image or badge)
+---
 
-Visitor counters / profile view badges
+## 📊 GitHub Stats
 
-🎯 Let’s Build Something
-“Beautiful design + solid backend = magic.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauyaa&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauyaa&theme=radical&hide_border=true" width="47%" />
+</p>
+
+---
+
+## ⏱️ WakaTime Coding Insights
+
+<p align="center">
+  <a href="https://wakatime.com/@mauyaa">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mauyaa&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📆 My GitHub Calendar
+
+<p align="center">
+  <img src="https://github-readme-calendar.vercel.app/api?username=mauyaa&theme=onedark&hide_year=true" alt="Contribution Calendar" />
+</p>
+
+---
+
+## 🌟 Cool Extras You Can Add
+
+- ⌨️ **Typing animation** via [`readme-typing-svg`](https://github.com/DenverCoder1/readme-typing-svg)
+- 🔭 **3D graphs** like [github-profile-3d-contrib](https://github.com/yoyoinc/github-profile-3d-contrib)
+- ✨ **Custom themes** from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 🟢 **Spotify currently playing** badge
+- 🧮 **Visitor counter** like:  
+  `![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mauyaa)`
+
+---
+
+## 🧠 Let’s Build Something
+
+> *"Beautiful design + solid backend = magic."*
+
+---
+
+Let me know if you want:
+- A `📁 projects` section with live repo links + badges
+- A “Now Playing on Spotify” module
+- Typing animation greeting
+- Or even custom SVG hover cards 👀
+
+I'm here for all of it. Want me to package this into a downloadable `.md` file?
