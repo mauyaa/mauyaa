@@ -85,11 +85,12 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mauyaa/mauyaa/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
-> Enable via: [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
