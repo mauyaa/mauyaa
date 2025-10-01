@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Every day at midnight
-  workflow_dispatch:      # Manual run option
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   generate-snake:
@@ -18,8 +18,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push the snake files
-        uses: EndBug/add-and-commit@v9
+      - name: Push snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          default_author: github_actions
-          message: "Generate snake contribution animation"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
