@@ -51,19 +51,6 @@
 
 ---
 
-## ⚡ Quick Facts
-
-- **🛠 Fav stack:** Node.js + React + MongoDB + Tailwind  
-- **📚 Learning:** Kubernetes, CI/CD pipelines, Flutter  
-- **📌 Most active repo:** [IBank](https://github.com/mauyaa/IBank) – full-stack fintech app with account simulation, transaction history & analytics
-
----
-
-## 🚀 Featured Highlights
-
-- 🔄 **Reduced API p95 latency by 42%** using Redis caching and async task queues  
-- 📦 **Shipped a Dockerized microservice demo** with full CI using GitHub Actions  
-- 📊 **Refactored frontend UI** with 25% faster load time using Tailwind + lazy-loaded React components
 
 ---
 
