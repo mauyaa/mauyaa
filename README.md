@@ -1,11 +1,11 @@
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bfff&center=true&width=435&lines=Hey+There!+I'm+Mauyaa;Full‑Stack+Dev+%7C+Cloud+Enthusiast;Coding+is+my+craft" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Hey+There!+I'm+Mauyaa;Full‑Stack+Dev+%7C+Cloud+Enthusiast;Coding+is+my+craft" alt="typing intro" />
 </p>
 
-<!-- Banner or decorative header if desired -->
+<!-- Optional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=200&section=header&text=Welcome+to+My+Profile&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=200&section=header&text=Welcome+to+My+Profile&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="profile banner" />
 </p>
 
 <h2 align="center">Full‑Stack Developer · Cloud Enthusiast · Creative Problem‑Solver</h2>
@@ -21,60 +21,96 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me (YAML Style)
 
-- 🌍 Based in: Kenya  
-- 🎯 Passionate about full-stack dev, cloud-native architecture, and creative UI/UX  
-- 🧱 Building: Scalable APIs, Dockerized microservices, responsive web / mobile apps  
-- 🧩 **Proof Point**: Built a fintech app (**IBank**) with 1,000+ users and real-time transaction logging  
-- 📬 Reach me: [mauyabevan@gmail.com](mailto:mauyabevan@gmail.com)
+> `name:` Bevan Mauyaa  
+> `location:` Kenya  
+> `role:` Full-Stack Developer  
+> `email:` mauyabevan@gmail.com  
+> `linkedin:` bevan-mauya-a255a525a  
+> `interests:` Cloud-native architecture, DevOps & CI/CD, API development, UI/UX design  
+> `tech_stack:` Node.js, TypeScript, React, Django, Docker
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Project – IBank 💰
+
+> A full-stack fintech app for simulating bank accounts, transactions, and real-time analytics.
+
+**🔧 Tech Stack:**  
+`Node.js` · `MongoDB` · `Express.js` · `React` · `TailwindCSS` · `JWT` · `Docker`
+
+**📌 Highlights:**
+- 💸 1,000+ simulated users + real-time transaction history
+- 🔐 JWT secured login & role-based access
+- 📈 Analytics dashboard with charts & filtering
+- 📦 Dockerized backend with GitHub Actions for CI
+
+🔗 [GitHub Repo](https://github.com/mauyaa/IBank)
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Frontend
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### 🖥 Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Python](https://skillicons.dev/icons?i=python)
+![Go](https://skillicons.dev/icons?i=go)
+![Django](https://skillicons.dev/icons?i=django)
+
+### 🛢️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+### ☁️ DevOps & Cloud
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+### 🔧 Tools
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,mongodb,postgres,django,docker" alt="Main tech icons" />
+  <img src="https://raw.githubusercontent.com/mauyaa/mauyaa/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
 
-<details>
-  <summary>More tools</summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,flask,git,figma,linux,mysql,flutter" alt="Additional tech icons" />
-  </p>
-</details>
+> Enable via: [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 📊 GitHub Summary & Achievements
 
 <p align="center">
-  <!-- Activity graph / summary card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauyaa&theme=github_dark" alt="GitHub summary card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauyaa&theme=github_dark" alt="GitHub Summary Card" />
 </p>
 
 <p align="center">
-  <!-- Optional: GitHub trophies (if enabled) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mauyaa&theme=dark&no-frame=true&margin-w=15" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mauyaa&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 👥 Visitor Count
+## 🔐 Repo Security Checklist
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mauyaa/count.svg" alt="Profile Visitor Count" />
-</p>
-
----
-
-## 🚀 Featured Highlights
-
-- 🔄 **Reduced API p95 latency by 42%** using caching & asynchronous processing  
-- 📦 **Launched Dockerized microservices** with CI/CD via GitHub Actions  
-- 📉 **Refactored UI** to reduce load times by ~25% using lazy loading & optimized bundling  
-- 💡 **IBank**: End‑to‑end fintech platform available on my [repo](https://github.com/mauyaa/IBank)
-
----
-
-<p align="center"><i>“Clean architecture meets clean design.”</i></p>
+```md
+✅ .gitignore is in place  
+✅ Secrets/API keys are excluded  
+✅ Dependabot alerts enabled  
+✅ Secret scanning enabled  
+✅ License & README present  
+✅ Docker used for dev/prod parity  
