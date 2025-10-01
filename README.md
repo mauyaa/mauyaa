@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 🌍 Based in: Harare, Zimbabwe  
+- 🌍 Based in: Kenya  
 - 🎯 Passionate about full-stack development, cloud-native tools, and creative problem solving  
 - 🧱 Building: Scalable APIs, Dockerized microservices, web & mobile apps  
 - 🧩 **Proof Point**: Built a fintech app (IBank) with 1,000+ simulated users and real-time transaction logs  
