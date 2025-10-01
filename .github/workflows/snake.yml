@@ -2,23 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch: # allow manual trigger
+    - cron: "0 0 * * *"  # Every day at midnight
+  workflow_dispatch:      # Manual run option
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk@v3
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
+      - name: Commit and Push the snake files
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
-          message: "Generate snake contribution graph"
+          message: "Generate snake contribution animation"
